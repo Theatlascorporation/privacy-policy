@@ -56,6 +56,8 @@ Backup
 DATA SECURITY
 We implement reasonable security measures to protect your data. However, no method of electronic storage is 100% secure. We cannot guarantee absolute security of your information.
 
+
+
 PERMISSIONS USED
 
 Internet Access (INTERNET)
@@ -370,6 +372,8 @@ CHILDREN'S SAFETY:
 ✓ No targeted ads for children
 ✓ Purchase authentication required
 ✓ COPPA compliant
+
+“The app allows users to create personal notes and tracks app usage time for reporting purposes. These data are stored securely in Firebase and are used only for app functionality and are not shared with third parties.”
 
 This Privacy Policy is effective as of January 30, 2026.
 
